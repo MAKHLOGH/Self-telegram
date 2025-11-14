@@ -42,3 +42,7 @@
 21) حالت ضخیم خودکار 🔤: ❌
 
 داره فقط برای این حالت ضخیم خودکار و اینا که عددی نوشتم مثلا عدد 21 ضخیم خودکاره بنویسید 21 ضخیم میشه
+دستورات 
+git clone https://github.com/MAKHLOGH/Self-telegram
+cd Self-telegram
+python self111.py
