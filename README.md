@@ -45,7 +45,7 @@
 
 
 نصب کتابخونه 
->`
+>
 # pip install telethon**
 
 دستورات 
