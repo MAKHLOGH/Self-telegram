@@ -45,9 +45,10 @@
 
 
 نصب کتابخونه 
->>**pip install telethon**<
+>**pip install telethon**<
 
 دستورات 
+
 
 
 >**git clone https://github.com/MAKHLOGH/Self-telegram
